@@ -1,0 +1,6 @@
+.contenedor {
+    position: sticky;
+    top: 0;
+    background-color: violet;
+    padding: 5px
+}

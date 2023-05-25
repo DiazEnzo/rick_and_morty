@@ -1,0 +1,22 @@
+.tarjetas {
+
+        background-image: url('https://e0.pxfuel.com/wallpapers/178/361/desktop-wallpaper-fondos-de-pantalla-de-rick-y-morty-rick-and-morty-portal.jpg');
+        background-size: cover;
+        padding: 10px;
+
+        margin-bottom: 20px;
+        width: calc(200px);
+        border: 1px solid #ccc;
+
+        padding: 20px;
+        box-shadow: 0px 0px px rgba(0, 0, 0, 0.2);
+
+
+
+}
+
+.card {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+}
